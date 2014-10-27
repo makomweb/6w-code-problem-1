@@ -21,7 +21,7 @@ TBD
 
 `(require 'tweet-searcher.core)`
 
-`(tweet-searcher.core "6Wunderkinder")` 
+`(tweet-searcher.core/search "6Wunderkinder")` 
 
 `lein test`
 
